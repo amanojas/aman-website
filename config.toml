@@ -158,11 +158,11 @@ enableEmoji = true
     title = "Teaching"
     url = "/project/"
     weight = 3   
-#  [[menu.header]]
-#    name = "something"
-#    title = "research Work"
-#    url = "/Slides_4000/Example_Codes.html"
-#    weight = 4     
+  [[menu.header]]
+    name = "something"
+    title = "research Work"
+    url = "/Slides_4000/Example_Codes.html"
+    weight = 4     
 #  [[menu.header]]
 #    name = "Talks"
 #    title = "Talks"
