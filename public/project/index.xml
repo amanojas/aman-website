@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aman Desai</title>
+    <link>http://localhost:4321/project/</link>
+    <description>Recent content on Aman Desai</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ECO 1002 Macroeconomics</title>
+      <link>http://localhost:4321/project/eco-1002/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/eco-1002/</guid>
+      <description>&lt;p&gt;I taught this course in spring 2021, fall 2021, spring 2024, fall 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ECO 4000 Statistical Analysis for Economics and Finance</title>
+      <link>http://localhost:4321/project/eco-4000/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/eco-4000/</guid>
+      <description>&lt;p&gt;I taught this course in spring 2022, summer 2022, fall 2022, spring 2023, summer 2023, fall 2023, summer 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ECO 1110 Current Economic Problems</title>
+      <link>http://localhost:4321/project/eco-1110/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/eco-1110/</guid>
+      <description>&lt;p&gt;I taught this course in fall 2019, spring 2020, fall 2020, spring 2021, fall 2021, spring 2022.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BUSN 3400 Introduction to Economic and Business Statistics</title>
+      <link>http://localhost:4321/project/busn-3400/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/busn-3400/</guid>
+      <description>&lt;p&gt;I taught this course in fall 2019 and spring 2020.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
