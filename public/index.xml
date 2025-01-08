@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aman Desai on Aman O Desai</title>
+    <title>Aman Desai</title>
     <link>http://localhost:4321/</link>
-    <description>Recent content in Aman Desai on Aman O Desai</description>
+    <description>Recent content on Aman Desai</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
@@ -86,6 +86,13 @@
       <description>I incorporate the concept of dynamic complementarity when categorizing circumstance factors (those beyond individual control) to measure income inequality of opportunity&amp;ndash;unfair inequality.</description>
     </item>
     <item>
+      <title>Measuring Income Inequality of Opportunity : Accounting for Dynamic Complementarity (Job Market Paper)</title>
+      <link>http://localhost:4321/something/microsat-ghana/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/something/microsat-ghana/</guid>
+      <description>I incorporate the concept of dynamic complementarity when categorizing circumstance factors (those beyond individual control) to measure income inequality of opportunity&amp;ndash;unfair inequality.</description>
+    </item>
+    <item>
       <title>ECO 1002 Macroeconomics</title>
       <link>http://localhost:4321/project/eco-1002/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
@@ -100,6 +107,13 @@
       <description>We examine the impact of the COVID-19 pandemic on students&amp;rsquo; academic performance by analyzing the probability of answering nearly identical questions on exams before and during the pandemic.</description>
     </item>
     <item>
+      <title>Effects of COVID-19 on the Academic Performance of College Students</title>
+      <link>http://localhost:4321/something/var-ghana-pilot/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/something/var-ghana-pilot/</guid>
+      <description>We examine the impact of the COVID-19 pandemic on students&amp;rsquo; academic performance by analyzing the probability of answering nearly identical questions on exams before and during the pandemic.</description>
+    </item>
+    <item>
       <title>ECO 4000 Statistical Analysis for Economics and Finance</title>
       <link>http://localhost:4321/project/eco-4000/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
@@ -111,6 +125,13 @@
       <link>http://localhost:4321/research/var-networks/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/var-networks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Measuring Educational Inequality of Opportunity using Childhood Circumstances  (in progress)</title>
+      <link>http://localhost:4321/something/var-networks/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/something/var-networks/</guid>
       <description></description>
     </item>
     <item>

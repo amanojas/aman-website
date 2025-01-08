@@ -44,6 +44,12 @@
     <loc>http://localhost:4321/research/microsat-ghana/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/something/microsat-ghana/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/something/</loc>
+    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/research/</loc>
     <lastmod>2024-12-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,10 +68,16 @@
     <loc>http://localhost:4321/research/var-ghana-pilot/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/something/var-ghana-pilot/</loc>
+    <lastmod>2024-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/project/eco-4000/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/research/var-networks/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/something/var-networks/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/eco-1110/</loc>
@@ -172,7 +184,5 @@
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
-  </url><url>
-    <loc>http://localhost:4321/something/</loc>
   </url>
 </urlset>
