@@ -2,7 +2,7 @@
 action_label: 
 action_link: 
 action_type: text
-description: I am a Ph.D. candidate in economics at the CUNY Graduate Center and a junior scholar at the [Stone Center on Socio-Economic Inequality](https://stonecenter.gc.cuny.edu/people/desai-aman/).
+description: I am a PhD candidate in economics at the CUNY Graduate Center and a junior scholar at the [Stone Center on Socio-Economic Inequality](https://stonecenter.gc.cuny.edu/people/desai-aman/).
   My primary research fields are labor economics and applied microeconometrics. 
   In my job market paper, I incorporate dynamic complementarity into the measurement of income inequality of opportunity using supervised machine learning.
   Additionally, I employ causal inference and machine learning techniques to examine inequality in educational and health opportunities, 
