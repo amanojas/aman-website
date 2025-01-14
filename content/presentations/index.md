@@ -3,15 +3,14 @@ author: Aman Desai
 title: Presentations
 ---
 
+**Eastern Economic Association Conference, NYC, New York, Feb 2025 (scheduled)**
 
-Eastern Economic Association Conference, NYC, New York (scheduled), Feb 2025
+**Global GLO-JOPE Conference (online), Dec 2024**
 
-Global GLO-JOPE Conference (online), Dec 2024
+**Stone Center Multidisciplinary Seminar Series, NYC, New York, Nov 2025**
 
-Stone Center Multidisciplinary Seminar Series, NYC, New York, Nov 2025
+**PSID Annual User Conference, Ann Arbor, Michigan, Sept 2024**
 
-PSID Annual User Conference, Ann Arbor, Michigan, Sept 2024
+**Dissertation Seminar in Economics, CUNY Graduate Center, NYC, New York, Oct 2024**
 
-Dissertation Seminar in Economics, CUNY Graduate Center, NYC, New York, Oct 2024
-
-Dissertation Seminar in Economics, CUNY Graduate Center, NYC, New York, Nov 2023
+**Dissertation Seminar in Economics, CUNY Graduate Center, NYC, New York, Nov 2023**
